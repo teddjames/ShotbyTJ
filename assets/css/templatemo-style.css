@@ -51,7 +51,6 @@ h4 {
   font-weight: 700;
   color: #fff;
   letter-spacing: 0.25px;
-  text-shadow: 0 2.5px 2.5px rgba(0, 0, 0, 0.75);
 }
 
 img {
@@ -123,14 +122,12 @@ html {
   width: 100%;
   transition: all 0.5s;
   border-top: 2px solid #fff;
-  text-shadow: 0 2.5px 2.5px rgba(0, 0, 0, 0.75);
 }
 
 .main-nav li:hover a,
 .main-nav li.active a {
   background: #fff;
   color: #833940;
-  text-shadow: 0 2.5px 2.5px rgba(0, 0, 0, 0.75);
 }
 
 /* Sidebar Menu */
