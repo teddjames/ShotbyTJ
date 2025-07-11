@@ -13,7 +13,7 @@
 - HTML, CSS, and JavaScript
 
 ## Deployment
-- The website is a GitHub repository that has been deployed through GitHub Pages and is accessible through this [link](https://teddjames.github.io/ShotbyTJ)
+- The website is a GitHub repository that has been deployed through GitHub Pages and is accessible through this link: [ShotbyTJ](https://teddjames.github.io/ShotbyTJ)
 
 
 ## Author
