@@ -231,7 +231,7 @@ hr {
 .ShotbyTJ-left h1 {
   color: var(--clr-accent);
 }
-.ShotbyTJ-left img {
+.ShotbyTJ-left video {
   width: 100%;
   max-width: 500px;
   aspect-ratio: 10/10;
